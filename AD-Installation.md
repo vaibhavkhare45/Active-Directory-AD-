@@ -26,7 +26,7 @@ Windows 10 Client (for domain join)
 2. Install Windows Server normally.
 3. Create a strong password for the Administrator account.
 
- 🔹 Step 3: Install Active Directory Domain Services
+ 🔹 Step 2: Install Active Directory Domain Services
 1. Open Server Manager.
 2. Click Manage → Add Roles and Features.
 3. Choose Role-based installation.
