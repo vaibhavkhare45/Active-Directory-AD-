@@ -13,7 +13,7 @@ It also provides practical defense strategies to secure AD environments.
 - **Windows 10 Client** (Domain-joined machine)
 - **Kali Linux** (Attacker machine)
 - Virtualization Platform: **VMware Workstation / VirtualBox**
-See [Lab-Setup.md](Lab-Setup.md) for detailed instructions
+See [AD-installation.md](AD-installation.md) for detailed instructions
 
 ## 🔹 Famous Active Directory Attacks
 Detailed in [Attacks-On-AD.md](Attacks-On-AD.md):
